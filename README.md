@@ -29,7 +29,8 @@ The final write-up for the *CogSci 2022* conference is included in this director
 
 ### Experiment
 `/experiments`: Code for running experiment
+
 Notes on experiment code:
 1. The experiment code relies on an exchange with a mongodb instance running on the cogtoolslab server.
-  - As a result, the code here is not likely to run if simply cloned and started locally; however, the underlying logic of the experiment (as well as all stimuli etc.) is preserved in `/experiments`.
-2. The code here largely inherits from an earlier experiment lead by Haoliang Wang examining people's ability to learn novel physical dyanmics over repeated trials. The code in `/experiments` has primarily been modified to include the agent's suggestions and the logic of intervening on or accepting them.
+    - As a result, the code here is not likely to run if simply cloned and started locally; however, the underlying logic of the experiment (as well as all stimuli etc.) is preserved in `/experiments`.
+2. The code here largely inherits from an earlier experiment lead by Haoliang Wang examining people's ability to learn novel physical dyanmics over repeated trials. This code has primarily been modified to include the agent's suggestions and the logic of intervening on or accepting them.
