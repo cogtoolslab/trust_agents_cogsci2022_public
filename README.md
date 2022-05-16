@@ -1,3 +1,4 @@
+***
 # Evaluating the competence of artificial agents in a physical environment
 ***
 
@@ -5,6 +6,7 @@
 
 ![agent_suggestion](img/cliphy-suggestion-submit.gif)
 
+***
 ## Overview
 ***
 
@@ -14,6 +16,7 @@ The current study focuses on people's judgments of competence in an intuitive ph
 
 The final write-up for the *CogSci 2022* conference is included in this directory and can be found [here](Revisions-final.pdf).
 
+***
 ## Organization
 ***
 
