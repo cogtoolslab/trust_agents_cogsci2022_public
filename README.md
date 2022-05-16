@@ -1,6 +1,5 @@
 ***
 # Evaluating the competence of artificial agents in a physical environment
-***
 
 **This project is motivated by the question of how people develop trust with artificial agents.**
 
@@ -8,7 +7,6 @@
 
 ***
 ## Overview
-***
 
 In this work, we focus on judgments of an agent's *competence* over repeated interactions, which undergird our trust in those agents in many settings (e.g., how much we trust an autonomous vehicle may depend on how well we think it can overcome various driving obstacles).
 
@@ -18,7 +16,6 @@ The final write-up for the *CogSci 2022* conference is included in this director
 
 ***
 ## Organization
-***
 
 ### Data
 `/data`: Contains data files for the complete experiment
