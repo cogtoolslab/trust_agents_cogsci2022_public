@@ -12,6 +12,7 @@ In this work, we focus on judgments of an agent's *competence* over repeated int
 
 The current study focuses on people's judgments of competence in an intuitive physical setting, using their decisions about whether to intervene, and how much, on the agent's move suggestions. We examine these judgments for agents that vary in their underlying task ability, as well as their *learning over time* (improving and worsening).
 
+The final write-up for the *CogSci 2022* conference is included in this directory and can be found [here](Revisions-final.pdf).
 
 ## Organization
 ***
